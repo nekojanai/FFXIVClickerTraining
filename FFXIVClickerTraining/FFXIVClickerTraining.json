@@ -1,0 +1,13 @@
+{
+  "Author": "nekojanai",
+  "Name": "FFXIVClickerTraining",
+  "Punchline": "Plays a clicker sound on every level up",
+  "Description": "plays a clicker training sound on level up",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "clicker",
+    "training",
+    "puppygirl",
+    "doggirl"
+  ]
+}
